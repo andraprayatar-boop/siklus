@@ -1,5 +1,5 @@
 /* Siklus offline cache. Bump CACHE_NAME when shipping an incompatible release. */
-const CACHE_NAME = 'siklus-static-v2';
+const CACHE_NAME = 'siklus-static-v3';
 const CORE_FILES = ['./', './index.html', './manifest.webmanifest', './icon.svg', './icon-192.png', './icon-512.png'];
 const scopeUrl = self.registration.scope;
 const resolve = (path) => new URL(path, scopeUrl).toString();

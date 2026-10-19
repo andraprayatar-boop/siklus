@@ -1,6 +1,6 @@
 # Siklus — ruang kerja keuangan pribadi
 
-Siklus membantu mencatat dan merencanakan uang pribadi dengan bahasa Indonesia sederhana. Desainnya dibuat ringkas, bisa dipasang sebagai PWA, dan mengutamakan penyimpanan lokal.
+Siklus membantu mencatat dan merencanakan uang pribadi dengan bahasa Indonesia sederhana. Desainnya dibuat ringkas dengan navigasi samping yang bisa digulir, ikon lime dengan logo orbit Siklus, bisa dipasang sebagai PWA, dan mengutamakan penyimpanan lokal.
 
 ## Yang tersedia
 
@@ -42,7 +42,7 @@ GitHub Pages dapat menerbitkan situs statis dari repositori. Pada akun GitHub Fr
 3. Buka **Settings → Pages**.
 4. Pada **Build and deployment**, pilih **Deploy from a branch**, pilih branch `main` dan folder `/(root)`, lalu simpan.
 5. Tunggu sampai GitHub selesai menerbitkan situs dan buka URL yang disediakan GitHub.
-6. Buka situs saat online setidaknya sekali untuk memasang cache awal. Di Chrome, gunakan pilihan **Install app** jika tersedia. Setelah kode diperbarui, tutup-buka atau muat ulang aplikasi supaya service worker mengambil versi baru.
+6. Buka situs saat online setidaknya sekali untuk memasang cache awal. Di Chrome, gunakan pilihan **Install app** jika tersedia. Setelah kode diperbarui, muat ulang situs dan tunggu pembaruan service worker. Jika ikon aplikasi terpasang masih menampilkan ikon lama, tutup aplikasi lalu hapus instalasi PWA dan pasang ulang dari situs agar Chrome memperbarui ikon yang tersimpan.
 
 Dokumentasi GitHub: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
 

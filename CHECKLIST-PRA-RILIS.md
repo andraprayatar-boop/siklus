@@ -27,3 +27,12 @@
 - [ ] Pastikan pengguna menyimpan cadangan di luar browser sebelum mengganti perangkat atau menghapus data situs.
 
 Pemeriksaan otomatis bukan jaminan bahwa setiap kombinasi data/perangkat bebas bug. Periksa hasil keuangan penting dengan catatan sumber sebelum mengandalkannya.
+
+
+## Pembaruan tampilan dan ikon
+
+- [ ] Sidebar bisa digulir sendiri pada layar/laptop dengan tinggi pendek; navigasi dan area profil tetap dapat dijangkau.
+- [ ] Judul grup sidebar tampil sebagai **Workspace** dan **Planning**.
+- [ ] Label kapital kecil tidak menggunakan jarak antarhuruf yang berlebihan.
+- [ ] Ikon PWA hijau-lime dengan logo orbit gelap tampil benar di manifest, tab browser, dan pemasangan Chrome/Windows.
+- [ ] Setelah publikasi, muat ulang situs; bila ikon terpasang tidak berubah, hapus dan pasang ulang PWA.
