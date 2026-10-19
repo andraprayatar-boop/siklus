@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "Siklus — Keuangan Pribadi",
+  "short_name": "Siklus",
+  "description": "Ruang kerja keuangan pribadi yang sederhana dan mengutamakan privasi.",
+  "lang": "id-ID",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#151719",
+  "theme_color": "#151719",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

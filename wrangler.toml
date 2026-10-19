@@ -1,0 +1,11 @@
+name = "siklus-ai"
+main = "worker.js"
+compatibility_date = "2026-10-01"
+
+[vars]
+# Ganti dengan origin saja, tanpa path akhir.
+# Contoh: https://nama-akun.github.io
+ALLOWED_ORIGIN = "https://GANTI-DENGAN-ORIGIN-GITHUB-PAGES"
+
+[ai]
+binding = "AI"
